@@ -1,6 +1,6 @@
 {
   "$schema": "https://api.archbee.com/git-config-schema",
-  "docsPath": ".",
+  "docsPath": "docs1/",
   "structure": {
     "assets": "assets",
     "docsTree": [
@@ -24,6 +24,11 @@
           {
             "name": "HA2",
             "path": "second-doc.md",
+            "children": []
+          },
+          {
+            "name": "HA3",
+            "path": "new-doc.md",
             "children": []
           }
         ]
