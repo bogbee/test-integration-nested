@@ -25,6 +25,11 @@
             "name": "HA2",
             "path": "second-doc.md",
             "children": []
+          },
+          {
+            "name": "HA3",
+            "path": "new-doc.md",
+            "children": []
           }
         ]
       }
