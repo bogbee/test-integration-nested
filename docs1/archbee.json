@@ -11,7 +11,7 @@
         "children": [
           {
             "name": "HA",
-            "path": "docs1/first-doc.md",
+            "path": "first-doc.md",
             "children": []
           }
         ]
