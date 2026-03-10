@@ -1,0 +1,33 @@
+{
+  "$schema": "https://api.archbee.com/git-config-schema",
+  "docsPath": ".",
+  "structure": {
+    "assets": "assets",
+    "docsTree": [
+      { 
+        "categoryName": "Categ 1",
+        "path": "",
+        "isCategory": true,
+        "children": [
+          {
+            "name": "HA",
+            "path": "docs1/first-doc.md",
+            "children": []
+          }
+        ]
+      },
+      {
+        "categoryName": "Categ 2",
+        "path": "",
+        "isCategory": true,
+        "children": [
+          {
+            "name": "HA2",
+            "path": "docs1/second-doc.md",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+}
