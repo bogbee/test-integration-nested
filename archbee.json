@@ -1,0 +1,20 @@
+{
+  "$schema": "https://api.archbee.com/git-config-schema",
+  "docsPath": ".",
+  "structure": {
+    "assets": "assets",
+    "docsTree": [
+      { 
+        "categoryName": "Categ 1",
+        "path": "",
+        "isCategory": true,
+        "children": [
+          {
+            "name": "TEST-JSON",
+            "path": "README.md",
+            "children": []
+          }]
+      }
+    ]
+  }
+}
